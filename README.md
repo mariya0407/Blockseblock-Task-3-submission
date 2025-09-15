@@ -1,4 +1,4 @@
-# NYC Taxi Trip Duration – Exploratory Data Analysis
+#BSB Mini Task-3 | NYC Taxi Trip Duration – Exploratory Data Analysis
 
 This repository contains an exploratory data analysis (EDA) of the **New York City Taxi Trip Duration** dataset from Kaggle.  
 We use Python (pandas, NumPy, Matplotlib, Seaborn) to visualize and analyze the trips.
