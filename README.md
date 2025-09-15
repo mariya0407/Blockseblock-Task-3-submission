@@ -29,8 +29,7 @@ Below are screenshots of the key charts generated during the analysis (see the `
 
 | Chart | Screenshot |
 |-------|------------|
-| **Daily Ride Counts** | ![Daily Ride Counts]<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/2fedd3bd-abae-45e1-8e05-cb79556f73ba" />
- |
+| **Daily Ride Counts** | ![Daily Ride Counts]<img width="1200" height="500" alt="image" src="https://github.com/user-attachments/assets/2fedd3bd-abae-45e1-8e05-cb79556f73ba" />|
 | **Pickup Hour Distribution** | ![Pickup Hour Distribution]<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/1a801926-6a4f-4771-bd31-a07b62c766d3" />|
 | **Trip Duration Distribution (log scale)** | ![Trip Duration Distribution]<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/7ba82102-f95e-4c57-93a4-b699075c155c" />|
 | **Distance vs Duration Hexbin** | ![Distance vs Duration]<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/9b7f0415-c216-4daa-afb6-85c7df66ce0d" />|
