@@ -35,7 +35,8 @@ Below are screenshots of the key charts generated during the analysis (see the `
 | **Distance vs Duration Hexbin** | ![Distance vs Duration](plots/distance_vs_duration_hexbin.png) |
 | **Trip Duration by Passenger Count (Boxplot)** | ![Trip Duration by Passenger Count](plots/trip_duration_by_passenger_box.png) |
 | **Pickup Locations (sample scatter)** | ![Pickup Locations](plots/pickup_spatial_scatter.png) |
-| **Correlation Matrix** | ![Correlation Matrix](plots/correlation_matrix.png) |
+| **Correlation Matrix** | ![Correlation Matrix]<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/84978b64-92c4-4856-acb9-c40f49fce15f" />
+ |
 | **Avg Trip Duration by Day of Week and Hour (Heatmap)** | ![Heatmap](plots/heatmap_dow_hour_duration.png) |
 
 ---
