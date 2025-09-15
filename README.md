@@ -1,5 +1,10 @@
 # BSB Mini Task-3 | NYC Taxi Trip Duration – Exploratory Data Analysis
 
+## Dataset Link - https://www.kaggle.com/datasets/yasserh/nyc-taxi-trip-duration
+I have added the link here as the NYC.csv file is more than the file uploading limit allowed on GitHub.
+
+---
+
 This repository contains an exploratory data analysis (EDA) of the **New York City Taxi Trip Duration** dataset from Kaggle.  
 I have used Python (pandas, NumPy, Matplotlib, Seaborn) to visualize and analyze the trips.
 
